@@ -1,5 +1,5 @@
 <h1>I'm Vinit Parekh.</h1>
-» Currently learning in BCA. <br /> <br />
+» Currently studing in BCA. <br /> <br />
 » Learning ReactJS library. <br /> <br />
 » Working on FrontEnd and BackEnd as well. <br /> <br />
 » Goal: Full Stack Web Developer <br /> <br />

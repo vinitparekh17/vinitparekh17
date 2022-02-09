@@ -2,7 +2,7 @@
 » Currently studing in BCA. <br /> <br />
 » Learning ReactJS library. <br /> <br />
 » Working on FrontEnd and BackEnd as well. <br /> <br />
-» Goal: Full Stack Web Developer <br /> <br />
+» Goal: Full Stack Web Development <br /> <br />
 » Intrested in Technology related stuff. <br /> <br />
 
 <hr />

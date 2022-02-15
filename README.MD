@@ -3,7 +3,7 @@
 » Learning ReactJS library. <br /> <br />
 » Working on FrontEnd and BackEnd as well. <br /> <br />
 » Goal: Full Stack Web Development <br /> <br />
-» Intrested in Technology related stuff. <br /> <br />
+» Interested in Technology related stuff. <br /> <br />
 
 <hr />
 

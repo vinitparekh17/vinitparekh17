@@ -11,6 +11,8 @@
 » Working on FrontEnd and BackEnd as well. <br /> <br />
 » Goal: Full Stack Web Development <br /> <br />
 » Interested in Technology related stuff. <br /> <br />
+» Go beyond and push the bounds and explore your potentials. <br /> <br />
+» Looking for help to improve my competitive programming skills. <br /> <br />
 
 <hr />
 

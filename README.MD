@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
 » Currently at undergraduate phase <br /> <br />
-» Learning ReactJS, Express, CSS, Bootstrap, <br /> <br />
+» Learning ReactJS, Express, CSS, Bootstrap, NodeJS <br /> <br />
 » Working on FrontEnd and BackEnd as well. <br /> <br />
 » Goal: Full Stack Web Development <br /> <br />
 » Interested in Technology related stuff. <br /> <br />

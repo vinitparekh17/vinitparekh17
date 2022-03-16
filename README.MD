@@ -1,7 +1,7 @@
 <h1>I'm Vinit Parekh.</h1>
 
 
-![Downloads](https://img.shields.io/github/downloads/vinitsoni17/vinitsoni17/total) ![Contributors](https://img.shields.io/github/contributors/vinitsoni17/vinitsoni17?color=dark-green) ![Forks](https://img.shields.io/github/forks/vinitsoni17/svinitsoni17?style=social) ![Stargazers](https://img.shields.io/github/stars/vinitsoni17/vinitsoni17?style=social) ![Issues](https://img.shields.io/github/issues/vinitsoni17/vinitsoni17) ![License](https://img.shields.io/github/license/vinitsoni17/vinitsoni17) 
+![Downloads](https://img.shields.io/github/downloads/vinitsoni17/vinitsoni17/total) ![Contributors](https://img.shields.io/github/contributors/vinitsoni17/vinitsoni17?color=dark-green) ![Forks](https://img.shields.io/github/forks/vinitsoni17/vinitsoni17?style=social) ![Stargazers](https://img.shields.io/github/stars/vinitsoni17/vinitsoni17?style=social) ![Issues](https://img.shields.io/github/issues/vinitsoni17/vinitsoni17) ![License](https://img.shields.io/github/license/vinitsoni17/vinitsoni17) 
 
 » Currently at undergraduate phase <br /> <br />
 » Learning ReactJS, Express, CSS, Bootstrap, <br /> <br />

@@ -34,4 +34,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitparekh17&" alt="vinitparekh17" width="60%"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vinitparekh17&show_icons=true&theme=react)](https://github.com/vinitparekh17/github-readme-stats" width="60%" alt="." />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitparekh17" align="center" width="60%" alt="" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitparekh17" width="60%" alt="" />

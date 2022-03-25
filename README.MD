@@ -1,4 +1,5 @@
 <h1>I'm Vinit Parekh.</h1>
+<h4>An Indian Full-Stack Developer</h4>
 
 
 ![Downloads](https://img.shields.io/github/downloads/vinitparekh17/vinitparekh17/total) ![Contributors](https://img.shields.io/github/contributors/vinitparekh17/vinitparekh17?color=dark-green) ![Forks](https://img.shields.io/github/forks/vinitparekh17/vinitparekh17?style=social) ![Stargazers](https://img.shields.io/github/stars/vinitparekh17/vinitparekh17?style=social) ![Issues](https://img.shields.io/github/issues/vinitparekh17/vinitparekh17) ![License](https://img.shields.io/github/license/vinitparekh17/vinitparekh17) 
@@ -7,13 +8,12 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 <hr />
 
-» Currently at undergraduate phase <br /> <br />
+» Currently at undergraduation phase <br /> <br />
 » Learning ReactJS, Express, CSS, Bootstrap, NodeJS <br /> <br />
-» Working on FrontEnd and BackEnd as well. <br /> <br />
-» Goal: Full Stack Web Development <br /> <br />
+» Working on FrontEnd and BackEnd as well. <br /> <br />>
 » Interested in Technology related stuff. <br /> <br />
 » Go beyond and push the bounds and explore your potentials. <br /> <br />
-» Looking for help to improve my competitive programming skills. <br /> <br />
+» Contect me [Vinit Parekh](vinitparekh1742@gmail.com)
 
 <hr />
   

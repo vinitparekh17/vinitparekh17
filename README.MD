@@ -13,7 +13,7 @@
 » Working on FrontEnd and BackEnd as well. <br /> <br />>
 » Interested in Technology related stuff. <br /> <br />
 » Go beyond and push the bounds and explore your potentials. <br /> <br />
-» Contect me [Vinit Parekh](vinitparekh1742@gmail.com)
+» Contect me [Vinit Parekh](mailto:vinitparekh1742@gmail.com)
 
 <hr />
   

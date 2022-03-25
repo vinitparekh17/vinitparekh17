@@ -21,10 +21,13 @@
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vinitparekh17)
   
+  <h3>GiHub Metrics</h3>
+
+  ![GitHub metrics](https://metrics.lecoq.io/vinitparekh17) 
+  
 <hr />
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=vinitparekh17&show_icons=true&theme=react)](https://github.com/vinitparekh17/github-readme-stats" align="center" width="100%" alt="." />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitparekh17" width="100%" align="center" alt="" />
-<img src="https://camo.githubusercontent.com/2657798669a799f29cb4c4ce3ec9720789fc71c4c4576b5b755be080ba2bb46f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f333936303431352f73637265656e73686f74732f383939353336352f6d656469612f62306235646464633533653135663865623636363530326339633363623564342e676966" width="100%" alt="" />

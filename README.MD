@@ -10,7 +10,7 @@
 
 » Currently at undergraduation phase <br /> <br />
 » Learning ReactJS, Express, CSS, Bootstrap, NodeJS <br /> <br />
-» Working on FrontEnd and BackEnd as well. <br /> <br />>
+» Working on FrontEnd and BackEnd as well. <br /> <br />
 » Interested in Technology related stuff. <br /> <br />
 » Go beyond and push the bounds and explore your potentials. <br /> <br />
 » Contect me [Vinit Parekh](mailto:vinitparekh1742@gmail.com)

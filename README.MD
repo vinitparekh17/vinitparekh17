@@ -22,8 +22,9 @@
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vinitparekh17)
   
   <h3>GiHub Metrics</h3>
-
-   ![GitHub metrics](https://metrics.lecoq.io/vinitparekh17) 
+  
+  
+  ![GitHub metrics](https://metrics.lecoq.io/vinitparekh17) 
   
 <hr />
 <h3> Development Tech </h3>

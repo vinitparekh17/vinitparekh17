@@ -1,8 +1,7 @@
 <h1>I'm Vinit Parekh.</h1>
 <h4>An Indian Full-Stack Developer</h4>
 
-
-![Downloads](https://img.shields.io/github/downloads/vinitparekh17/vinitparekh17/total) ![Contributors](https://img.shields.io/github/contributors/vinitparekh17/vinitparekh17?color=dark-green) ![Forks](https://img.shields.io/github/forks/vinitparekh17/vinitparekh17?style=social) ![Stargazers](https://img.shields.io/github/stars/vinitparekh17/vinitparekh17?style=social) ![Issues](https://img.shields.io/github/issues/vinitparekh17/vinitparekh17) ![License](https://img.shields.io/github/license/vinitparekh17/vinitparekh17) 
+![Contributors](https://img.shields.io/github/contributors/vinitparekh17/vinitparekh17?color=dark-green) ![Forks](https://img.shields.io/github/forks/vinitparekh17/vinitparekh17?style=social) ![Stargazers](https://img.shields.io/github/stars/vinitparekh17/vinitparekh17?style=social) ![Issues](https://img.shields.io/github/issues/vinitparekh17/vinitparekh17)
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">

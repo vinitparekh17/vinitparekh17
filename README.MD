@@ -1,8 +1,8 @@
 <h1>I'm Vinit Parekh.</h1>
 <h4>An Indian Full-Stack Developer</h4>
 
-![Contributors](https://img.shields.io/github/contributors/vinitparekh17/vinitparekh17?color=dark-green) ![Forks](https://img.shields.io/github/forks/vinitparekh17/vinitparekh17?style=social) ![Stargazers](https://img.shields.io/github/stars/vinitparekh17/vinitparekh17?style=social) ![Issues](https://img.shields.io/github/issues/vinitparekh17/vinitparekh17) 
-[![](https://visitcount.itsvg.in/api?id=vinitparekh17&label=Profile%20Views&color=8&pretty=true)](https://visitcount.itsvg.in)
+![Contributors](https://img.shields.io/github/contributors/vinitparekh17/vinitparekh17?color=dark-green) ![Forks](https://img.shields.io/github/forks/vinitparekh17/vinitparekh17?style=social) ![Stargazers](https://img.shields.io/github/stars/vinitparekh17/vinitparekh17?style=social) ![Issues](https://img.shields.io/github/issues/vinitparekh17/vinitparekh17)
+![](https://visitcount.itsvg.in/api?id=vinitparekh17&label=Profile%20Views&color=1&icon=2&pretty=true)
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">

@@ -1,8 +1,7 @@
-<h1>I'm Vinit Parekh.</h1>
+<h1>I'm Vinit Parekh.</h1>[![](https://visitcount.itsvg.in/api?id=ruchik02&icon=0&color=0)](https://visitcount.itsvg.in)
 <h4>An Indian Full-Stack Developer</h4>
 
 ![Contributors](https://img.shields.io/github/contributors/vinitparekh17/vinitparekh17?color=dark-green) ![Forks](https://img.shields.io/github/forks/vinitparekh17/vinitparekh17?style=social) ![Stargazers](https://img.shields.io/github/stars/vinitparekh17/vinitparekh17?style=social) ![Issues](https://img.shields.io/github/issues/vinitparekh17/vinitparekh17)
-[![](https://visitcount.itsvg.in/api?id=vinitparekh17&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">

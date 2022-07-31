@@ -18,7 +18,7 @@
 
 <hr />
   
-  <h3>GitHub Graph</h3>
+  <h3>GitHub Overview</h3>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vinitparekh17)
   

@@ -5,7 +5,7 @@
 ![](https://visitcount.itsvg.in/api?id=vinitparekh17&label=Profile%20Views&color=1&icon=2&pretty=true)
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="100%" style="max-width:100%;">
 <hr />
 
 » My portfolio [vinitparekh.rocks](https://www.vinitparekh.rocks) <br /> <br />

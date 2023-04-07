@@ -18,7 +18,7 @@
 
 <hr />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitparekh17&" width="100%"/>
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitparekh17&hide_progress=true)](https://github.com/vinitparekh17/)
 <hr />
 <h3> Technology Stack </h3>
 <h4>FrontEnd:</h4>

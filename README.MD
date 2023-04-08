@@ -8,7 +8,7 @@
 <img align="right" width="50%" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="100%" style="max-width:100%;">
 <hr />
 
-» My portfolio [vinitparekh.rocks](https://www.vinitparekh.rocks) <br /> <br />
+» My portfolio [click here](https://vinitparekh.technetic.co.in) <br /> <br />
 » Currently at undergraduation phase <br /> <br />
 » Learning ReactJS, Express, CSS, Bootstrap, NodeJS <br /> <br />
 » Working on FrontEnd and BackEnd as well. <br /> <br />

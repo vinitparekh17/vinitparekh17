@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinit Parekh
 
-Welcome to my GitHub! I'm a passionate software developer.
+Welcome to my GitHub! I'm a passionate **Software Engineer**.
 
 ### 🛠 Skills & Technologies
 
